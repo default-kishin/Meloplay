@@ -186,8 +186,8 @@ Distributed under the Attribution-NonCommercial-ShareAlike 4.0 International Lic
 
 ## 📧 Contact
 
-- [Email](mailto:shokhrukhbekdev@gmail.com)
-- [GitHub](https://github.com/ShokhrukhbekYuldoshev)
+- [Email](mailto:work.kishin@gmail.com)
+- [GitHub](https://github.com/default-kishin)
 
 ## 🌟 Show your support
 
